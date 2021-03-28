@@ -1,0 +1,23 @@
+{
+  "artifacts": [
+    {
+      "tag": "FLOWER",
+      "primary_weights":
+      [
+        [ "HP",        100.0  ]
+      ],
+      "secondary_weights":
+      [
+        [ "ATK_FLAT",  15.79 ],
+        [ "HP_FLAT",   15.79 ],
+        [ "HP",        10.53 ],
+        [ "ATK",       10.53 ],
+        [ "DEF",       10.53 ],
+        [ "ER",        10.53 ],
+        [ "EM",        10.53 ],
+        [ "CR",        7.89  ],
+        [ "CD",        7.89  ]
+      ]
+    }
+  ]
+}
